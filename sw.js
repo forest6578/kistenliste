@@ -1,6 +1,6 @@
 // Offline-Speicher für die Kistenliste.
 // Bei jeder Änderung an der App VERSION hochzählen, damit Handys die neue Fassung holen.
-const VERSION = 'kistenliste-v1';
+const VERSION = 'kistenliste-v6';
 const FILES = [
   './',
   './index.html',
